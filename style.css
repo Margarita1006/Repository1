@@ -1,0 +1,9 @@
+@media (max-width: 1099px) {
+    .scroll{
+        font: size 14px;
+    }
+    .main{
+        width: auto;
+        height: 400px;
+    }
+}
